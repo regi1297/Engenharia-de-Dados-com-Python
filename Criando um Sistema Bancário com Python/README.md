@@ -45,7 +45,7 @@ Além disso, o sistema salva os dados do saldo, número de saques e extrato em u
 
 - **Arquivo `dados_banco.txt`**:
     - Armazena o saldo, número de saques e extrato de transações.
-    - É criado e atualizado automaticamente quando o sistema é executado.
+    - Sendo criado e atualizado automaticamente quando o sistema é executado.
 
 ## Explicação do Código
 
