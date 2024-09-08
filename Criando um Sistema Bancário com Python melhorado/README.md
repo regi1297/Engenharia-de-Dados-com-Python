@@ -50,4 +50,4 @@ Este projeto é um sistema simples de gerenciamento bancário desenvolvido em Py
 
 1. Execute o arquivo Python para iniciar o sistema:
    ```bash
-   python nome_do_arquivo.py
+   python sistemaB.py
